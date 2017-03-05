@@ -10,12 +10,12 @@ public class Main {
 
     public static void main(String[] args) {
 
-        arrayList();
+        testArrayList();
 
     }
 
     //testing arrayList implementation
-    private static void arrayList() {
+    private static void testArrayList() {
 
         int nums[] = {1,10,9,3,4,2,8,5};
 
