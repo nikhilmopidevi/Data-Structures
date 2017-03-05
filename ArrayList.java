@@ -143,7 +143,7 @@ public class ArrayList<E>{
             shrinkSize();
     }
 
-    //removes all the value at that index
+    //removes element at that index
     public void remove(int index) {
 
         for(int i=index;i<size-1;i++) {
@@ -157,7 +157,7 @@ public class ArrayList<E>{
             shrinkSize();
     }
 
-    //removes value at the end of the arrayList
+    //removes element at the end of the arrayList
     public void pop() {
         
         currentIndex--;
