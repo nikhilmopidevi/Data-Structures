@@ -4,7 +4,6 @@ package com.datastructures;
  * Author: Nikhil Kumar Mopidevi
  * Date: February 28th, 2017
  */
-
 @SuppressWarnings("unchecked")
 public class Main {
 
