@@ -6,7 +6,6 @@ package com.datastructures;
  */
 @SuppressWarnings("unchecked")
 public class Main {
-
     public static void main(String[] args) {
 
         testArrayList();
