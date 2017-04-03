@@ -16,7 +16,7 @@ public class Stack<E> {
         array = (E[])new Object[16];
     }
 
-    //push an element into the stack
+    //pushes an element into the stack
     public boolean push(E element) {
         if(!isFull()) {
             currentIndex++;
@@ -26,7 +26,7 @@ public class Stack<E> {
         return true;
     }
 
-    //pop an element from the top of the stack
+    //pops an element from the top of the stack
     public E pop() {
         if(!isEmpty()) {
             E element = array[currentIndex];
@@ -44,7 +44,7 @@ public class Stack<E> {
         else return null;
     }
 
-    //checks of stack is empty
+    //checks if stack is empty
     public boolean isEmpty() {
         if(currentIndex == -1)
             return true;
@@ -58,3 +58,4 @@ public class Stack<E> {
         else return false;
     }
 }
+
