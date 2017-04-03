@@ -44,14 +44,14 @@ public class Stack<E> {
         else return null;
     }
 
-    //checks if stack is empty
+    //checks if the stack is empty
     public boolean isEmpty() {
         if(currentIndex == -1)
             return true;
         else return false;
     }
 
-    //checks if stack is full
+    //checks if the stack is full
     public boolean isFull() {
         if(currentIndex == capacity-1)
             return true;
