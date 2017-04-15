@@ -13,7 +13,7 @@ public class Stack<E> {
     public Stack() {
         capacity = 16;
         currentIndex = -1;
-        array = (E[])new Object[16];
+        array = (E[])new Object[capacity];
     }
 
     //pushes an element into the stack
