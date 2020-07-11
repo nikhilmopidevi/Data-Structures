@@ -4,7 +4,7 @@ package com.datastructures.Stack;
  * Author: Nikhil Kumar Mopidevi
  * Date: 4/3/17
  */
-public class StackTest {
+public class StackDemo {
     public static void main(String[] args) {
 
         int nums[] = {1,10,9,3,4,2,8,5};
