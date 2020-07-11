@@ -4,7 +4,7 @@ package com.datastructures.ArrayList;
  * Author: Nikhil Kumar Mopidevi
  * Date: 2/28/17
  */
-public class ArrayListTest {
+public class ArrayListDemo {
     public static void main(String[] args) {
 
         int nums[] = {1,10,9,3,4,2,8,5};
