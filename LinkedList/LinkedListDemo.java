@@ -4,7 +4,7 @@ package com.datastructures.LinkedList;
  * Author: Nikhil Kumar Mopidevi
  * Date: 3/17/17
  */
-public class LinkedListTest {
+public class LinkedListDemo {
     public static void main(String[] args) {
 
         int nums[] = {1,10,9,3,4,2,8,5};
