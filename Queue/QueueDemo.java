@@ -4,7 +4,7 @@ package com.datastructures.Queue;
  * Author: Nikhil Kumar Mopidevi
  * Date: 4/4/17
  */
-public class QueueTest {
+public class QueueDemo {
     public static void main(String[] args) {
 
         int nums[] = {1,10,9,3,4,2,8,5};
